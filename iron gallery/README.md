@@ -1,7 +1,7 @@
 # Solution - Iron Gallery
 
 # Table of Contents
-- [Deployment files](#manifest-files)
+- [Manifest files](#manifest-files)
 
 ## Manifest Files
 - [Gallery of bravos](galary-of-bravos.yaml)

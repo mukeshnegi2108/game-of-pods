@@ -2,7 +2,7 @@
 
 # Table of Contents
 - [Namespace Creation](#namespace-creation)
-- [Deployment files](#manifest-files)
+- [Manifest files](#manifest-files)
 
 ## Namespace Creation
 `kubectl create namespace vote`
