@@ -18,6 +18,11 @@ spec:
       containers:
       - name: postgres
         image: postgres:9.4
+        env:
+        - name: POSTGRES_USER
+          value: admin
+        - name: POSTGRES_PASSWORD
+          value: admin
         volumeMounts:
           - mountPath: /var/lib/postgresql/data
             name: db-data
